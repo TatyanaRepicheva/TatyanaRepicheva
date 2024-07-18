@@ -43,11 +43,7 @@
 - **Архитектуры:** Клиент-сервер, Микросервисы
 
 ### Операционные системы
-- Windows
-- Mac OS
-- iOS
-- Android
-- Linux
+- Windows, Mac OS, iOS, Android, Linux
 
 ### Инструменты и технологии
 - **Системы контроля версий:** SVN, GIT
@@ -59,23 +55,10 @@
 - **Инструменты веб-тестирования:** Playwright, Fiddler
 
 ### Методологии
-- Agile
-- SCRUM
-- Kanban
+- Agile, SCRUM, Kanban
 
 ### Системы баг-трекинга и управления тест-кейсами
-- JIRA
-- Redmine
-- TestRail
-- Qase.io
-- Trello
-- Allure
-- YouTrack
-- Яндекс-трекер
+- JIRA, Redmine, TestRail, Qase.io, Trello, Allure, YouTrack, Яндекс-трекер
 
 ### Языки программирования
-- JavaScript (JS)
-- XML
-- HTML
-- SQL
-- Unix Shell Script
+- JavaScript (JS), XML, HTML, SQL, Unix Shell Script
