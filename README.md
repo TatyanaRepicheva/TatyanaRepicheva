@@ -29,7 +29,7 @@
 - [WhatsApp](https://api.whatsapp.com/send/?phone=971585902540)
 - [Telegram](https://t.me/QArepkaUAE)
 - [Email](mailto:tteresh1013@gmail.com)
-- [Резюме](...)
+- [Резюме](https://github.com/TatyanaRepicheva/My-CV/blob/07a683f6a798ac990cc2a96f1c694d8f6d120944/README.md)
 
 ---
 
