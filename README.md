@@ -20,9 +20,8 @@ My name is Tatyana Repicheva! 👋
 ### Leadership Philosophy
 As a leader (not a boss), I pay great attention to team motivation and development, provide feedback, and create a comfortable working environment while keeping the team focused on results. I excel at fostering interaction between the business and development teams, ensuring effective communication and goal alignment.
 
-- **Business Owner:** [Pro-test.Studio](https://pro-test.studio/) (_and all related to Pro-test.Studio:_ [Telegram Channel "All about QA"](https://t.me/pro_test_studio), [Instagram](https://www.instagram.com/pro_test.studio/))
-- **Course Author:** Creator of courses for beginner testers:
-   [YouTube Channel](https://youtube.com/@Pro-test.studio), [Course "Software Tester from Scratch"](https://course.pro-test.studio/)
+- **Company founder:** [Pro-test.Studio](https://pro-test.studio/)
+- **Course Author:** "Software Tester from scratch" course for beginner testers.
 
 ### 📫 How to contact me:
 - [LinkedIn](https://www.linkedin.com/in/tatyanarepicheva/)
