@@ -23,12 +23,14 @@ As a leader (not a boss), I pay great attention to team motivation and developme
 - **Company founder:** [Pro-test.Studio](https://pro-test.studio/)
 - **Course Author:** "Software Tester from scratch" course for beginner testers.
 
+### Get to know my work experience better:
+- [My CV](https://github.com/TatyanaRepicheva/My-CV/blob/main/RESUME.md)
+
 ### 📫 How to contact me:
 - [LinkedIn](https://www.linkedin.com/in/tatyanarepicheva/)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=971585902540)
 - [Telegram](https://t.me/QArepkaUAE)
 - [Email](mailto:tteresh1013@gmail.com)
-- [Resume](https://github.com/TatyanaRepicheva/My-CV/blob/main/RESUME.md)
 
 ---
 
